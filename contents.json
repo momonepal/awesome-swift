@@ -711,6 +711,11 @@
       "description": "A collaborative list of open-source iOS Apps.",
       "homepage": "https://github.com/dkhamsing/open-source-ios-apps"
     }, {
+      "title": "open-source-mac-os-apps",
+      "category": "other-awesome-lists",
+      "description": "Awesome list of open source applications for macOS.",
+      "homepage": "https://github.com/serhii-londar/open-source-mac-os-apps"
+    }, {
       "title": "awesome-macOS",
       "category": "other-awesome-lists",
       "description": "A curated list of awesome applications, softwares, tools and shiny things for macOS.",
@@ -792,6 +797,12 @@
       "category": "ai",
       "description": "A collection of unique Core ML Models.",
       "homepage": "https://github.com/likedan/Awesome-CoreML-Models"
+    }, {
+      "title": "DL4S",
+      "category": "ai",
+      "description": "Automatic differentiation, fast tensor operations and dynamic neural networks from CNNs and RNNs to transformers.",
+      "homepage": "https://github.com/palle-k/DL4S",
+      "tags": ["math", "machine-learning", "automatic-differentiation", "neural-networks"]
     }, {
       "title": "CenteredCollectionView",
       "category": "uicollectionview",
@@ -1183,7 +1194,7 @@
       "title": "Futures",
       "category": "concurrency",
       "description": "Lightweight promises for iOS, macOS, tvOS, watchOS, and server-side.",
-      "homepage": "https://github.com/formbound/Futures",
+      "homepage": "https://github.com/davidask/Futures",
       "tags": ["linux"]
     }, {
       "title": "GroupWork",
@@ -1591,7 +1602,7 @@
       "title": "OpenCombine",
       "category": "events",
       "description": "Open source implementation of Apple's Combine framework for processing values over time.",
-      "homepage": "https://github.com/broadwaylamb/OpenCombine"
+      "homepage": "https://github.com/OpenCombine/OpenCombine"
     }, {
       "title": "Bond",
       "category": "events",
@@ -1939,6 +1950,11 @@
       "description": "A collection of useful classes, structs and extensions to develop Apps faster.",
       "homepage": "https://github.com/FabrizioBrancati/BFKit-Swift",
       "tags": ["linux"]
+    }, {
+      "title": "EasySwiftLayout",
+      "category": "auto-layout",
+      "description": "Lightweight Swift framework for Apple's Auto-Layout.",
+      "homepage": "https://github.com/Pimine/EasySwiftLayout"
     }, {
       "title": "KVConstraintKit",
       "category": "auto-layout",
@@ -2740,6 +2756,11 @@
       "description": "Beautiful charts for iOS/tvOS/OSX (port of MPAndroidChart).",
       "homepage": "https://github.com/danielgindi/Charts"
     }, {
+        "title": "ChartView",
+        "category": "chart",
+        "description": "Swift package for displaying beautiful charts effortlessly",
+        "homepage": "https://github.com/AppPear/ChartView"    
+    }, {
       "title": "CountdownLabel",
       "category": "label",
       "description": "Simple countdown UILabel with morphing animation, and some useful function.",
@@ -2954,7 +2975,7 @@
       "title": "Arale",
       "category": "ui",
       "description": "A custom stretchable header view for UIScrollView or any its subclasses with UIActivityIndicatorView support for content reloading.",
-      "homepage": "https://github.com/ZulwiyozaPutra/Arale"
+      "homepage": "https://github.com/supercomputra/Arale"
      }, {
       "title": "MXParallaxHeader",
       "category": "ui",
@@ -3738,7 +3759,7 @@
       "title": "MobilePlayer",
       "category": "video",
       "description": "A powerful and completely customizable media player for iOS.",
-      "homepage": "https://github.com/mobileplayer/mobileplayer-ios"
+      "homepage": "https://github.com/sahin/mobileplayer-ios"
     }, {
       "title": "Player",
       "category": "video",
@@ -4119,12 +4140,6 @@
       "homepage": "https://github.com/iGenius-Srl/IGColorPicker",
       "tags": ["iOS", "swift", "color", "color-picker", "picker"]
     }, {
-      "title": "Atributika",
-      "category": "text",
-      "description": "Easily build NSAttributedString by detecting and styling HTML-like tags, hashtags, mentions, RegExp or NSDataDetector patterns.",
-      "homepage": "https://github.com/psharanda/Atributika",
-      "tags": ["nsattributedstring", "html"]
-    }, {
       "title": "CTPanoramaView",
       "category": "images",
       "description": "A library that displays spherical or cylindrical panoramas with touch or motion based controls.",
@@ -4471,6 +4486,11 @@
       "description": "Easy, flexible, dynamic and highly scalable UI framework + concept for reusable component/control-driven apps.",
       "homepage": "https://github.com/MKGitHub/UIPheonix"
     }, {
+      "title": "UltraDrawerView",
+      "category": "ui",
+      "description": "Lightweight, fast and customizable Drawer View implementation identical to Apple Maps, Stocks and etc.",
+      "homepage": "https://github.com/super-ultra/UltraDrawerView"
+    }, {
       "title": "UIDeviceComplete",
       "category": "device",
       "description": "UIDevice extensions that fill in the missing pieces.",
@@ -4746,7 +4766,7 @@
       "title": "Sukari",
       "category": "Syntactic Sugar",
       "description": "Sweet Syntactic Sugar.",
-      "homepage": "https://github.com/chriskarani/Sukari"
+      "homepage": "https://github.com/captain-charisma/Sukari"
     }, {
       "title": "Shiny",
       "category": "ui",
@@ -5420,7 +5440,7 @@
       "title": "CoreXLSX",
       "category": "other-data",
       "description": "Excel spreadsheet (XLSX) format support.",
-      "homepage": "https://github.com/MaxDesiatov/CoreXLSX"
+      "homepage": "https://github.com/CoreOffice/CoreXLSX"
     }, {
       "title": "XMLCoder",
       "category": "xml",
@@ -5484,7 +5504,7 @@
       "title": "Tokamak",
       "category": "events",
       "description": "React-like declarative API for building native UI components with easy to use one-way data binding.",
-      "homepage": "https://github.com/MaxDesiatov/Tokamak",
+      "homepage": "https://github.com/swiftwasm/Tokamak",
       "tags": ["react", "redux"]
     }, {
       "title": "VEditorKit",
@@ -5857,6 +5877,114 @@
       "description": "Toasts and popups library written with SwiftUI.",
       "homepage": "https://github.com/exyte/PopupView",
       "tags": ["swiftui", "swift-package-manager", "swift-library"]
+    }, {
+      "title": "CHIOTPField",
+      "category": "textfield",
+      "description": "A set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc.",
+      "homepage": "https://github.com/ChiliLabs/CHIOTPField"
+    }, {
+      "title": "AnimatedCardInput",
+      "category": "payment",
+      "description": "Customisable and easy to use Credit Card UI.",
+      "homepage": "https://github.com/netguru/AnimatedCardInput"
+    }, {
+      "title": "StateViewController",
+      "category": "patterns",
+      "description": "Stateful UIVIewController composition — the MVC cure for Massive View Controllers.",
+      "homepage": "https://github.com/davidask/StateViewController"
+    }, {
+      "title": "KeyboardShortcuts",
+      "category": "keyboard",
+      "description": "Add user-customizable global keyboard shortcuts to your macOS app. Includes a Cocoa and SwiftUI component.",
+      "homepage": "https://github.com/sindresorhus/KeyboardShortcuts",
+      "tags": ["swiftui", "swift-package-manager", "swift-library", "macos", "hotkey", "shortcut"]
+    }, {
+      "title": "Grid",
+      "category": "layout",
+      "description": "The most powerful Grid container missed in SwiftUI.",
+      "homepage": "https://github.com/exyte/Grid",
+      "tags": ["swiftui", "swift-library", "grid-container"]
+    }, {
+      "title": "Mocker",
+      "category": "mock",
+      "description": "Mock Alamofire and URLSession requests without touching your code implementation",
+      "homepage": "https://github.com/WeTransfer/Mocker",
+      "tags": ["alamofire", "urlsession", "mock"]
+    }, {
+      "title": "ContainerController",
+      "category": "ui",
+      "description": "UI Component. This is a copy swipe-panel from app: Apple Maps, Stocks",
+      "homepage": "https://github.com/mrustaa/ContainerController",
+      "tags": ["swift", "maps", "swipe", "panel", "collection", "tableview", "scrollview", "view", "recognizer", "gesture", "pan"]
+    }, {
+      "title": "HorizonCalendar",
+      "category": "calendar",
+      "description": "A declarative, performant, iOS calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps.",
+      "homepage": "https://github.com/airbnb/HorizonCalendar",
+      "tags": ["calendar", "airbnb", "declerative"]
+    }, {
+      "title": "SuggestionsKit",
+      "category": "walkthrough",
+      "description": "Library for educating users about features in app.",
+      "homepage": "https://github.com/huemae/SuggestionsKit",
+      "tags": ["suggestions", "instructions", "hint", "guide"]
+    }, {
+        "title": "ElegantCalendar",
+        "category": "calendar",
+        "description": "The elegant full screen calendar missed in SwiftUI.",
+        "homepage": "https://github.com/ThasianX/ElegantCalendar",
+        "tags": ["elegantcalendar", "calendar", "declarative", "swiftui"]
+    }, {
+        "title": "Atributika",
+        "category": "label",
+        "description": "TConvert text with HTML tags, links, hashtags, mentions into NSAttributedString. Make them clickable with UILabel drop-in replacement.",
+        "homepage": "https://github.com/psharanda/Atributika",
+        "tags": ["html", "attributedstring", "link", "tag", "hashtag", "clickable"]
+    }, {
+      "title": "Mockingbird",
+      "category": "mock",
+      "description": "Simplify software testing, by easily mocking any system using HTTP/HTTPS, allowing a team to test and develop against a service that is not complete, unstable or just to reproduce planned cases.",
+      "homepage": "https://github.com/Farfetch/mockingbird"
+    }, {
+      "title": "FDTextFieldTableViewCell",
+      "category": "uitableview",
+      "description": "Adds a UITextField to the cell and places it correctly.",
+      "homepage": "https://github.com/fulldecent/FDTextFieldTableViewCell"
+    }, {
+      "title": "FDWaveformView",
+      "category": "audio",
+      "description": "An easy way to display an audio waveform in your app.",
+      "homepage": "https://github.com/fulldecent/FDWaveformView"
+    }, {
+      "title": "FDTake",
+      "category": "camera",
+      "description": "Easily take a photo or video or choose from library.",
+      "homepage": "https://github.com/fulldecent/FDTake"
+    }, {
+      "title": "FDSoundActivatedRecorder",
+      "category": "audio",
+      "description": "Start recording when the user speaks.",
+      "homepage": "https://github.com/fulldecent/FDSoundActivatedRecorder"
+    }, {
+      "title": "FDBarGauge",
+      "category": "form",
+      "description": "Simulate the level indicator on an audio mixing board",
+      "homepage": "https://github.com/fulldecent/FDBarGauge"
+    }, {
+      "title": "FDChessboardView",
+      "category": "games",
+      "description": "A view controller for chess boards",
+      "homepage": "https://github.com/fulldecent/FDChessboardView"
+    }, {
+      "title": "Streamoji",
+      "category": "ui",
+      "description": "Custom emoji rendering library with support for GIFs and images, UITextView extension.",
+      "homepage": "https://github.com/GetStream/Streamoji"
+    }, {
+      "title": "BetterSafariView",
+      "category": "ui",
+      "description": "A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI.",
+      "homepage": "https://github.com/stleamist/BetterSafariView"
     }
   ]
 }
